@@ -1,3 +1,7 @@
+## Seasson App
+It shows the current season based on user's location.
+Simple React app to practice class components, states and lifecycle methods.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
